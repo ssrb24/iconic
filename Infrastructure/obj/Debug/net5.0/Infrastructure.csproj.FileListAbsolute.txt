@@ -1,0 +1,15 @@
+C:\Training\iconic\Infrastructure\bin\Debug\net5.0\Infrastructure.deps.json
+C:\Training\iconic\Infrastructure\bin\Debug\net5.0\Infrastructure.dll
+C:\Training\iconic\Infrastructure\bin\Debug\net5.0\ref\Infrastructure.dll
+C:\Training\iconic\Infrastructure\bin\Debug\net5.0\Infrastructure.pdb
+C:\Training\iconic\Infrastructure\obj\Debug\net5.0\Infrastructure.csproj.AssemblyReference.cache
+C:\Training\iconic\Infrastructure\obj\Debug\net5.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Training\iconic\Infrastructure\obj\Debug\net5.0\Infrastructure.AssemblyInfoInputs.cache
+C:\Training\iconic\Infrastructure\obj\Debug\net5.0\Infrastructure.AssemblyInfo.cs
+C:\Training\iconic\Infrastructure\obj\Debug\net5.0\Infrastructure.csproj.CoreCompileInputs.cache
+C:\Training\iconic\Infrastructure\obj\Debug\net5.0\Infrastructure.dll
+C:\Training\iconic\Infrastructure\obj\Debug\net5.0\ref\Infrastructure.dll
+C:\Training\iconic\Infrastructure\obj\Debug\net5.0\Infrastructure.pdb
+C:\Training\iconic\Infrastructure\bin\Debug\net5.0\Core.dll
+C:\Training\iconic\Infrastructure\bin\Debug\net5.0\Core.pdb
+C:\Training\iconic\Infrastructure\obj\Debug\net5.0\Infrastructure.csproj.CopyComplete
